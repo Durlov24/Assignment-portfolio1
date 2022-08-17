@@ -1,0 +1,133 @@
+.body {
+    background-image: url(/show/assign.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+}
+
+.font {
+    font-family: 'Roboto' sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin-bottom: 20%;
+}
+
+.font1 {
+    font-family: 'Roboto' sans-serif;
+    font-size: 20px;
+    color: rgb(225, 255, 0);
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.donate {
+    background-image: linear-gradient();
+    background-color: rgb(249, 85, 56);
+    color: azure;
+    font-size: 30px;
+    margin-bottom: 5%;
+    border-radius: 7px;
+    padding: 30px 60px;
+}
+
+.link {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.font2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.font3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.flexi {
+    display: flex;
+    margin-bottom: 8%;
+}
+
+.st {
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    border: radius 7px;
+    box-shadow: 15px 15px 20px gray;
+    border-left: 7px;
+    text-align: center;
+    border: 5px;
+    border-color: browns;
+    margin-bottom: 8%;
+}
+
+#ammount {
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.donate-plan {
+    font-size: 50px;
+    text-align: center;
+}
+
+#mb {
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.flexcontiner {
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border: radius 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 7px;
+
+}
+
+#update {
+    font-size: 30px;
+    text-align: center;
+}
+
+#lorem {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 8%;
+}
+
+.dflex {
+    display: flex;
+    width: 30%;
+    box-shadow: 50px 15px 20px rgb(255, 115, 115);
+}
+
+#Email {
+    font-size: 20px;
+}
+
+#Subscribe {
+    font-size: 16px;
+}
+
+.foot {
+    background-color: rgb(2, 2, 24);
+    text-align: center;
+}
+
+#bh {
+    color: rgb(170, 0, 0);
+}
+
+#gonna {
+    color: rgba(253, 255, 250, 0.79);
+}
